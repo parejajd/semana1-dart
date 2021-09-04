@@ -3,10 +3,14 @@ void main() {
   String nombre_dos = "desde Flutter";
   var edad = 33;
   int edad_dos = 33;
-  int? nullValue = null; //Null Safe Operator
+  double peso = 75.5;
+
+  //Null Safe Operator
+  int? nullValue = null;
 
   //Variable de tipo Final
   final nombre_final = "Hola Mundo";
+
   //Variable de tipo Const
   const PI = 3.1416;
 
